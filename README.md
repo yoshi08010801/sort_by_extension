@@ -45,3 +45,15 @@ A simple GUI-based Python tool to organize files by their extensions.
 
 ```bash
 python sort_by_extension.py
+
+---
+
+## 🎥 Live Recordings / 作業中のライブ記録
+
+This project was built and shared during livestream coding sessions.  
+このプロジェクトは、以下のライブ配信中に作業されました。
+
+1. [🔴 Live #1](https://youtube.com/live/14hQ3bgEKD4?feature=share)
+2. [🔴 Live #2](https://youtube.com/live/19IU5x6lbwk?feature=share)
+3. [🔴 Live #3](https://youtube.com/live/5HEymXhLIFk?feature=share)
+4. [🔴 Live #4](https://youtube.com/live/6FNWvR81Ol8?feature=share)
